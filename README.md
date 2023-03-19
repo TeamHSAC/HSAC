@@ -18,20 +18,25 @@ HSAC 소모임 깃허브 입니다.</br></br>
 
 ### 📚 개발팀
 
-* **게임**
+* **게임** </br>
+<img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Game/TeamA)
-* **웹**
+* **웹** </br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white">
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamB)
   + [Team C](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamC)
   + [Team D](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamD)
-* **모바일**
+  
+* **모바일** </br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Mobile/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Mobile/TeamB)
 
 ### 🌼 기초팀
 
-* **C 언어**
+* **C 언어**</br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></img>
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamB)
   + [Team C](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamC)
