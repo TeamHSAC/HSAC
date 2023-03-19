@@ -42,7 +42,7 @@ HSAC 소모임 깃허브 입니다.</br></br>
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamB)
   + [Team C](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamC)
 
-* **자료구조 & 알고리즘(Data Structure & Algorithm)**
+* **자료구조 & 알고리즘 (Data Structure & Algorithm)**
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Data%20Structure%26Algorithm/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Data%20Structure%26Algorithm/TeamB)
   + [Team C](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Data%20Structure%26Algorithm/TeamC)
