@@ -19,39 +19,39 @@ HSAC 소모임 깃허브 입니다.</br></br>
 
 ### 📚 개발팀
 
-* **게임** </br>
+* **게임 (Game)** </br>
 <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white"></img><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"></img>
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Game/TeamA)
-* **웹** </br>
+* **웹 (Web)** </br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"></img><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"></img><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"></img><img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white"></img>
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamB)
   + [Team C](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamC)
   + [Team D](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamD)
   
-* **모바일** </br>
+* **모바일 (Mobile)** </br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"></img><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"></img>
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Mobile/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Mobile/TeamB)
 
 ### 🌼 기초팀
 
-* **C 언어**</br>
+* **C 언어 (C Language)**</br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></img>
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamB)
   + [Team C](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamC)
 
-* **자료구조 & 알고리즘**
+* **자료구조 & 알고리즘(Data Structure & Algorithm)**
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Data%20Structure%26Algorithm/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Data%20Structure%26Algorithm/TeamB)
   + [Team C](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Data%20Structure%26Algorithm/TeamC)
   + [Team D](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Data%20Structure%26Algorithm/TeamD)
 
-* **컴퓨터구조 & 운영체제**
+* **컴퓨터구조 & 운영체제 (Computer Architecture & OS)**
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Computer%20Architecture%26OS/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Computer%20Architecture%26OS/TeamB)
 
-* **코딩테스트**
+* **코딩테스트 (Coding Test)**
   + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Coding%20Test/TeamA)
   + [Team B](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Coding%20Test/TeamB)
