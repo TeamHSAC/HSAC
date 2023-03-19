@@ -16,7 +16,7 @@ HSAC 소모임 깃허브 입니다.
 ### 📚 개발팀
 
 * **게임**
-  + Team A
+  + [Team A](https://github.com/TeamHSAC/HSAC/tree/main/Develop/Game)
 * **웹**
   + Team A
   + Team B
