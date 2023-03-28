@@ -28,7 +28,7 @@
 
 KMOOC 강의 바로가기
 
-http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_46+2023_T1/about
+http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_46+2023_T1/about 
 
 
 
