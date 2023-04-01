@@ -18,7 +18,7 @@ javascript로 사용가능한 node.js를 이용하여 스터디를 진행하게 
 교제는 node.js교과서를 사용합니다. 유튜브 강의가 있으니 참고해서 공부하시면 됩니다.</br>
 단 1강부터 8강까지 존재하니 참고하시기 바랍니다.</br>
 <img src="http://image.yes24.com/goods/91213376/XL"  width="40%" height="30%"></br>
-강의 : [node.js 교과서](https://www.youtube.com/playlist?list=PLcqDmjxt30RsGIPBBKX7xl05VuqJeCTFn, "node.js 교과서")</br>
+강의 : [node.js 교과서](https://www.youtube.com/playlist?list=PLcqDmjxt30RsGIPBBKX7xl05VuqJeCTFn)</br>
 ## 진도
 다음주 금요일까지 공부해야할 범위는 1강부터 2강입니다.</br>
 ## 지각 및 발표준비 안함
