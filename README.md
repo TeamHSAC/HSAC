@@ -52,9 +52,6 @@ Hansung Univ. Programming Group - Hansung & Computer (HSAC)
 
 ---
 
->
-
----
 ## 📢 공지사항
 > 2023-04-06 README.md 수정
 
@@ -108,7 +105,7 @@ Hansung Univ. Programming Group - Hansung & Computer (HSAC)
 
 ---
 
-> ### <b> [ 🙋‍♀️ 한성과 컴퓨터 기초팀 🙋‍♂️ ] </b> 
+> ### <b> [ 🙋‍♀️ 한성과 컴퓨터 기`초팀 🙋‍♂️ ] </b> 
 
 > ### <b>🌜 Programming C 기초 게시판</b>
   + [C언어 기초반 A <팀장 : 고현아>](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/C%20Language/TeamA)
@@ -143,7 +140,7 @@ Hansung Univ. Programming Group - Hansung & Computer (HSAC)
 
 - <p> <b> 부회장 : 박지원 </b> </p>
 
-- <p> <b> 재무 : 김민규 / 기술지원 : 곽승준 / 홍보 : 양정우 </b> </p>
+- <p> <b> 재무 : 김민규 / 기술지원 : 곽승준 / 커뮤니티관리 : 양정우 </b> </p>
 
 - <p> <b> 빅데이터 학습 지원 : 김기환 / 웹 학습 지원 : 임수한 </b> </p>  
 </details>

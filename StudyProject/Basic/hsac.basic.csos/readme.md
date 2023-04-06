@@ -44,14 +44,16 @@ HSAC Computer Architecture & Operating System Fundamental
 ## 📌Nevigation
 <p> <b>원하는 파일로 빠르게! 하이퍼 링크를 모아보았습니다!</b></p>
 
-### **[ 학습 디렉터리 ]**
-<p> 💌 문제 올리기 게시판 </p>
-<p> 📓 질문 할래요! 게시판 </p>
-<p> 🥇 대면 스터디 활동 게시판 </p>
+### **[ 학습 디렉터리 ]
+<href src = "https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/hsac.basic.csos/Problem">💌 문제 올리기 게시판 </href>
+
+📓 질문 할래요! 게시판
+
+<href src = "https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/hsac.basic.csos/Activity">🥇 대면 스터디 활동 게시판 </href>
 
 ### **[ 커뮤니티, 인터넷 강의 ]**
-<p> 🎯 한성과 컴퓨터 디스코드 채널 </p>
-<p> 🏢 컴퓨터 구조 + 운영체제 인터넷 강의(무료) </p>
+<href src = "https://discord.gg/4GSZ6f9W"> 🎯 한성과 컴퓨터 디스코드 채널 </href>
+<href src = "https://inf.run/8sNX">🏢 컴퓨터 구조 + 운영체제 인터넷 강의(무료) </href>
  
 ---
 
