@@ -5,7 +5,7 @@
 
 ---
 
-## **한성과 컴퓨터 - 컴퓨터 구조 & 운영체제 기초반**
+## **💻 한성과 컴퓨터 - 컴퓨터 구조 & 운영체제 기초반**
 HSAC Computer Architecture & Operating System Fundamental
 
 컴퓨터 구조와 운영체제에 대한 지식을 학습하고, 이를 면접에서 어떻게 활용할 지에 대해서 고민하는 학습 스터디입니다.
@@ -29,8 +29,8 @@ HSAC Computer Architecture & Operating System Fundamental
 <p> 컴퓨터 구조 + 운영체제 기초 학습 계획입니다! </p>
 <div> <img src="readme.img/img.hsac.book.jpg"> </div>
 <p> <b>사용 서적 : </b> 혼자 공부하는 컴퓨터 구조 + 운영체제 </p>
-<img src="https://img.shields.io/badge/Computer ARCHITECTURE-E53236?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/Operating System-0078D4?style=for-the-badge&logo=windows11&logoColor=white">
+<img src="https://img.shields.io/badge/Computer ARCHITECTURE-E53236?style=for-the-badge&logo=amazonec2&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Operating System-0078D4?style=for-the-badge&logo=windows11&logoColor=white"></img>
 
 <p> <b>난이도 : </b>  초급 😁  </p>
 <p> <b>시간 : </b> 월요일 오후 6시 ~ 7시, 수요일 오후 1시 ~ 2시 </p>

@@ -28,7 +28,7 @@ int main () {
 ```
 
 ### 2번 문제
-사진 첨부
+<img src="Activity/../Activity.img/first.1.jpg">
 
 
 ### 3번 문제
@@ -38,7 +38,7 @@ int main () {
 문제점: 모든 한글을 표현할 수 없다. 이를 해결하기 위해서 유니코드 UTF-8로 작성함. 각 나라의 문자나 기호를 통일하면 해결 가능
 
 ### 4번 문제
-사진 첨부
+<img src="Activity/../Activity.img/first.2.jpg">
 
 ### 5번 문제
 ```
