@@ -123,7 +123,7 @@ Hansung Univ. Programming Group - Hansung & Computer (HSAC)
   + [자료구조/알고리즘 기초반 D <팀장 : 이재욱>](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Data%20Structure%26Algorithm/TeamD)
 
 > ### <b>🧰 컴퓨터구조 & 운영체제 기초 게시판</b>
-  + [컴퓨터구조 & 운영체제 기초반](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/Computer%20Architecture%26OS/hsac.basic.csos)
+  + [컴퓨터구조 & 운영체제 기초반](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Basic/hsac.basic.csos)
 
 
 > ### <b>🏆 코딩테스트 기초반 게시판</b>
