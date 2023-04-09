@@ -8,11 +8,12 @@
 
 ## **📊 한성과 컴퓨터 - 자료구조 & 알고리즘 기초 C반**
 HSAC Data Structure&Algorithm C
+
+자료구조와 알고리즘에 대해 같이 배워보는 기초팀 입니다.
+
 ![DataStructure_C_Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![DataStructure_DataStructure_Badge](https://img.shields.io/badge/data_structure-E4202E?style=for-the-badge&logo=databricks&logoColor=white)
 ![DataStructure_Algorithm_Badge](https://img.shields.io/badge/Algorithm-000000?style=for-the-badge&logo=thealgorithms&logoColor=white)
-자료구조와 알고리즘에 대해 같이 배워보는 기초팀 입니다.
-
 ---
 ## 🏋 팀장
 **박지원**
