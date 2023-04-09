@@ -1,9 +1,8 @@
 
 
-<div align="center">
+
 ![hsac datac](https://user-images.githubusercontent.com/113771563/230756670-4ad49c1f-a990-4448-91db-180b4e60263c.png)
 
-</div>
 
 ---
 
