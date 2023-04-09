@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="readme.img/img.hsac.webc.png">
+<img src="./readme.img/img.hsac.webc.png">
 </div>
 
 ---
