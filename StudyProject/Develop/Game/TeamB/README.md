@@ -12,7 +12,7 @@ HSAC - Game develop team A
 
 ## **😄 Study Members**
 
-    👨‍🔧박용운 👩‍🌾김명준 👨‍✈️이지성
+    empty
 
 ---
  ## **📢 Notice**

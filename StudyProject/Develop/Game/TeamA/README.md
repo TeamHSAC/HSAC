@@ -13,7 +13,7 @@ HSAC - Game develop team A
 ## **😄 Study Members**
 
     👨‍🔧곽승준(조장) 
-    👩‍🌾양윤석 👨‍✈️박지원
+    👩‍🌾양윤석 👨‍🔧박용운 👩‍🌾김명준 👨‍✈️이지성
 
 ---
  ## **📢 Notice**
