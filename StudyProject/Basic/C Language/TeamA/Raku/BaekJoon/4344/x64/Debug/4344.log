@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jason\OneDrive\바탕 화면\2-1\한성 스터디\C언어 기초 A\과제\week2\BaekJoon\4344\main.cpp(26,13): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jason\OneDrive\바탕 화면\2-1\한성 스터디\C언어 기초 A\과제\week2\BaekJoon\4344\main.cpp(36,19): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  4344.vcxproj -> C:\Users\jason\OneDrive\바탕 화면\2-1\한성 스터디\C언어 기초 A\과제\week2\BaekJoon\x64\Debug\4344.exe
