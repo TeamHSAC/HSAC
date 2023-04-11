@@ -1,19 +1,46 @@
-# 📝 자료구조 B조
+
+
+
+![hsac datac](https://user-images.githubusercontent.com/113771563/230756670-4ad49c1f-a990-4448-91db-180b4e60263c.png)
+
+
+---
+
+## **📊 한성과 컴퓨터 - 자료구조 & 알고리즘 기초 C반**
+HSAC Data Structure&Algorithm C
+
+자료구조와 알고리즘에 대해 같이 배워보는 기초팀 입니다.
+
+![DataStructure_C_Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![DataStructure_DataStructure_Badge](https://img.shields.io/badge/data_structure-E4202E?style=for-the-badge&logo=databricks&logoColor=white)
+![DataStructure_Algorithm_Badge](https://img.shields.io/badge/Algorithm-000000?style=for-the-badge&logo=thealgorithms&logoColor=white)
+---
 ## 🏋 팀장
 **박지원**
+## 🏋 조장
+**박지원**
+
 ## 👨‍👨‍👧‍👦 팀원</br>
-* 유진</br>
 * 전지훈</br>
 * 박성현</br>
 * 차민정</br>
 * 이용욱</br>
 
+---
+ ## 📢 Notice
 
--------------
-#### 담당 운영진: 박지원
-#### 조       장: 이소민
+- 기존에 언급한 대로, 스터디의 원활한 운영을 위해서 각 기초반에서 벌금제도가 본격적으로 적용될 예정입니다. 
+    - 특별한 사정 없이 스터디에 불참 시, 3000원의 벌금이 부과됩니다.
+    - 주어진 과제를 하지 않았을 경우, 3,000원의 벌금이 부과됩니다. (질문 포함)
+    - 기타, 튜터 혹은 팀장의 판단하에 최대 10,000원의 벌금이 부가될 수 있습니다.
+
+- 중간고사 기간은 4월 3주차부터 4월 4주차까지이며, 해당 기간 동안 스터디의 대면/비대면 활동은 없습니다. 다만, 주어진 진도에 대해서는 학습하셔야 합니다. -추후 문제를 통해 확인 예정-
+
+- 앞으로 매주 스터디 시작 전 각자가 제출해야 하는 문제는 GitHub PullRequest나 Discord 컴퓨터 구조 게시판을 통해 받도록 하겠습니다. (카카오톡을 통한 자료 제출 X)
+
 ---
 
+## 📖 Study Plan
 #### 안녕하세요! 자료구조/알고리즘 기초반 담당 운영진을 맡게 된 박지원 입니다. 
 
 ##### ❗처음 개요에서 말씀드렸다싶이 자료구조/알고리즘은 따로 튜터가 질의응답을 받는 시간이 존재하지 않습니다.❗
@@ -49,3 +76,12 @@ http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_46+2023_T1/about
 ##### STEP 4. 튜터링
 
 알고리즘 고수와 함께 튜터링을 통해 배워보는 시간을 가집니다.
+
+
+
+---
+
+## ❓Question
+##### 질문 사항을 아래에 기재해 주세요!!😁
+
+---

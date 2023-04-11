@@ -1,4 +1,8 @@
 # 📝 코딩테스트 A조 
+
+![CodingTest_Java_Badge](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=intellijidea&logoColor=white)
+![CodingTest_Algorithm_Badge](https://img.shields.io/badge/Algorithm-000000?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
 ## 👨‍💻 튜터
 ####   ●  **박지원**
 
