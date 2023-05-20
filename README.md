@@ -28,7 +28,7 @@ Hansung Univ. Programming Group - Hansung & Computer (HSAC)
   ![Android_Android_Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
   ![Android_Kotlin_Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
   ![Android_JetpackCompose_Badge](https://img.shields.io/badge/JetPack_Compose-4285F4?style=for-the-badge&logo=JetpackCompose&logoColor=white)
-  + [모바일 제작팀 A <팀장 : 박종범>](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Mobile/TeamA)
+
   + [모바일 제작팀 B <팀장 : 박채영>](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Mobile/TeamB)
 
 - **[ 웹 프로그래밍 팀 ]**\
@@ -43,12 +43,7 @@ Hansung Univ. Programming Group - Hansung & Computer (HSAC)
   - [웹 프로그래밍팀 C <팀장 : 김민규>](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamC)
   - [웹 프로그래밍팀 D <팀장 : 장민권>](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Web/TeamD)
 
-- **[ 게임 개발 팀 ]**\
-![Game_C#_Badge](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=CSharp&logoColor=white)
-![Game_Unity_BEDGE](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)
-  - [게임 개발팀 A <팀장 : 곽승준>](https://github.com/TeamHSAC/HSAC/tree/main/StudyProject/Develop/Game/TeamA)
-  - 게임 개발팀 B
-  
+
 ---
 
 **[🤗 기초반]**
@@ -93,34 +88,30 @@ Hansung Univ. Programming Group - Hansung & Computer (HSAC)
 ---
 
 ## 📢 공지사항
-> 2023-05-08 README.md 수정
+> 2023-05-20 README.md 수정
 
 ### `5월 4일 팀장 회의 공지`
 
-### `📌 프로젝트 매니저 선발`
-
-- 기말고사가 종료 된 이후, 본격적인 프로젝트 개발이 진행될 계획입니다. 따라서 프로젝트를 이끌 수 있는 프로젝트 매니저를 새롭게 선발할 계획입니다.
-- 프로젝트 매니저는 `5월 8일부터 5월 12일`까지 모집 진행하겠습니다. 실력은 크게 상관 없습니다! 만들어 보고 싶은 서비스가 있다고 생각되시는 분은 바로 지원주시면 감사하겠습니다!
-
 ### `📌 팀 리빌딩 관련`
 
-- 프로젝트 매니저(이하 PM)가 선발된 이후, PM은 여러분이 작성한 포트폴리오를 기반으로 팀원을 선발하여 팀을 구성하게 됩니다. 
-- 각 개인의 포트폴리오는 `5월 19일`까지 받도록 하겠습니다. 해당 양식은 13일에 PM 회의 이후 14일에 공지하도록 하겠습니다.
+- 팀 리빌딩이 완료되었습니다. 해당 내용에 대한 공개는 팀장 회의에서의 논의 후 결정하겠습니다.
+
+### `📌 MT 관련`
+
+- 팀원간 교류를 위하여 MT를 기획하고 있습니다. 대성리역 5분 이내 거리에서, 계곡 앞에 있는 펜션으로 예약하고자 합니다. 6월 22일 ~ 6월 23일, 종강 이후 목, 금 진행할 예정이니 많은 참여 부탁드립니다.
  
 
 ### `📌 기초반 안내`
 
-- 여름방학 이후 기초반을 대폭 축소할 예정입니다. 1, 2학년 위주로 2팀 정도 예상하고 있습니다. 그 외 인원들은 모두 프로젝트 제작에 참여하게 될 예정입니다. 다만, 여름방학 시작하고 바로 개발에 들어가는 것이 아닌, 아이디어 회의와 개발 학습도 동반될 예정이니 너무 걱정 안하셔도 좋을 것 같습니다!
+- 관리의 효율을 위하여, 개발팀을 줄이고 기초반을 확대할 계획입니다. 해당 수요조사가 예정되어 있으니 이에 대해 참여 부탁드립니다.
 
 ### `📌 유령회원 안내`
-- 각 팀장분들은 현재까지 활동 중 70% 이상 참여하지 아니한 팀원들 명단을 회장에게 보내주시면 감사하겠습니다. 해당 인원은 팀장, 회장, 부회장과의 2차 면접이 있을 예정이며, 활동에 대한 성의가 보이지 않을 경우 동아리 탈퇴 절차를 진행하도록 하겠습니다.
+- 해당 인원에 대해서는 이번 주에 재면접 조치가 진행될 예정이니 확인 바랍니다.
 
 ---
 ## **🌏 한성과 컴퓨터 모집 안내**
 
-    한성과 컴퓨터는 2월, 10월에 정기 모집을 진행하고 있습니다.
-    혹은 각 팀장/운영진 인원추천을 통해 소모임에 참여하실 수 있습니다.
-
+    한성과 컴퓨터는 6월 중 여름방학을 함께할 여러분들을 모집하기 위하여 2차 모집을 계획하고 있습니다. 또한 팀원들의 추천 역시 받으니 많은 추천 부탁드립니다.
 
 ---
 ## 😁 운영진 소개
