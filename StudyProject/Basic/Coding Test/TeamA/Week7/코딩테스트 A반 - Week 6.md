@@ -8,11 +8,11 @@
 
  ##### 튜터 - 박지원
 
-![image-20230525195448537](C:\HSAC\HSAC\StudyProject\Basic\Coding Test\TeamA\image\image-20230525195448537.png)
-
-![image-20230525195826789](C:\HSAC\HSAC\StudyProject\Basic\Coding Test\TeamA\image\image-20230525195826789.png)
 
 
+![](https://github.com/TeamHSAC/HSAC/blob/main/StudyProject/Basic/Coding%20Test/TeamA/image/image-20230525195448537.png?raw=true)
+
+![](https://github.com/TeamHSAC/HSAC/blob/main/StudyProject/Basic/Coding%20Test/TeamA/image/image-20230525195826789.png?raw=true)
 
 ## 코드
 
@@ -123,7 +123,7 @@ public class Main {
 
 ##### 조장 - 김진하
 
-![image-20230525200245932](C:\HSAC\HSAC\StudyProject\Basic\Coding Test\TeamA\image\image-20230525200245932.png)
+![](https://github.com/TeamHSAC/HSAC/blob/main/StudyProject/Basic/Coding%20Test/TeamA/image/image-20230525200245932.png?raw=true)
 
 
 
@@ -171,7 +171,7 @@ public class Main{ //11004
 
 ##### 조원 - 이재욱
 
-![image-20230525200551963](C:\HSAC\HSAC\StudyProject\Basic\Coding Test\TeamA\image\image-20230525200551963.png)
+![](https://github.com/TeamHSAC/HSAC/blob/main/StudyProject/Basic/Coding%20Test/TeamA/image/image-20230525200551963.png?raw=true)
 
 
 
@@ -234,7 +234,7 @@ public class Main {
 
 ##### 조원 - 이경미
 
-![image-20230525200909097](C:\HSAC\HSAC\StudyProject\Basic\Coding Test\TeamA\image\image-20230525200909097.png)
+![](https://github.com/TeamHSAC/HSAC/blob/main/StudyProject/Basic/Coding%20Test/TeamA/image/image-20230525200909097.png?raw=true)
 
 
 
@@ -292,7 +292,7 @@ public class Main {
 
 ##### 조원 - 김수아
 
-![image-20230525201131892](C:\HSAC\HSAC\StudyProject\Basic\Coding Test\TeamA\image\image-20230525201131892.png)
+![](https://github.com/TeamHSAC/HSAC/blob/main/StudyProject/Basic/Coding%20Test/TeamA/image/image-20230525201131892.png?raw=true)
 
 
 
